@@ -1,0 +1,5 @@
+java.com
+python.com
+excel.com
+yt.com
+gmail.com
